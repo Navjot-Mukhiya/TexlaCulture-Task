@@ -1,11 +1,11 @@
 import { View, Text } from "react-native";
 
-function Notification () {
+function myTeam () {
     return (
         <View  style={{flex:1, justifyContent: 'center', alignItems: 'center'}}>
-            <Text>Notification</Text>
+            <Text>My Team</Text>
         </View>
     )
 }
 
-export default Notification;
+export default myTeam;
