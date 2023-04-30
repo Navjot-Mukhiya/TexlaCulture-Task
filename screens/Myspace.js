@@ -8,7 +8,7 @@ import { Colors } from "react-native/Libraries/NewAppScreen";
 import MyTask from "../Types/myTask";
 
 
-const mySpace = (props) => {
+const MySpace = (props) => {
 
 React.useEffect(() => {
   props.navigation.setOptions({
@@ -129,4 +129,4 @@ const styles = StyleSheet.create({
 }) 
 
 
-export default mySpace;
+export default MySpace;

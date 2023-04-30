@@ -5,8 +5,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Image, StyleSheet, Text, View, Button } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
-import Home from "./screens/home";
-import MySpace from "./screens/mySpace";
+import Home from './screens/Home';
+import MySpace from "./screens/Myspace";
 import MyTeam from "./screens/myTeam";
 import Settings from "./screens/Settings";
 

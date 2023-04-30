@@ -1,6 +1,6 @@
 import { View, Text } from "react-native";
 
-function myTeam () {
+function MyTeam () {
     return (
         <View  style={{flex:1, justifyContent: 'center', alignItems: 'center'}}>
             <Text>My Team</Text>
@@ -8,4 +8,4 @@ function myTeam () {
     )
 }
 
-export default myTeam;
+export default MyTeam;
